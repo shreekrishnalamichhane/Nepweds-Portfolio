@@ -5,7 +5,7 @@
 </p>
 <h1 align="center" style="border: 0;"> Nepweds Portfolio </h1>
 
-**Nepweds Portfolio** is a private project with a client as a part of freelance project. So source code cannot be shared. But surely I can share the [demo](#demo) and the overview.
+**Nepweds Portfolio** is a private project with a client as a part of freelance project. So source code cannot be shared. But surely I can share the [demo](#demo) and the [preview](./PREVIEW.md).
 
 ## Table Of Contents
 
