@@ -57,10 +57,10 @@ Sorry, you cannot contribute to this project.
 
 This project is copyrighted.
 
-[![License: MIT](https://img.shields.io/packagist/l/shreekrishnalamichhane/...?style=for-the-badge)](#)
+[![License: MIT](https://img.shields.io/packagist/l/shreekrishnalamichhane/Nepweds-Portfolio?style=for-the-badge)](#)
 
 ---
 
 Thank you for visiting. Make sure to try out the [demo](#demo). If you loved it, give it a star.
 
-[![star this repo](https://img.shields.io/github/stars/shreekrishnalamichhane/...?color=rgb%28224%2C%2093%2C%2068%29&style=for-the-badge)](https://github.com/shreekrishnalamichhane/...)
+[![star this repo](https://img.shields.io/github/stars/shreekrishnalamichhane/Nepweds-Portfolio?color=rgb%28224%2C%2093%2C%2068%29&style=for-the-badge)](https://github.com/shreekrishnalamichhane/Nepweds-Portfolio)
